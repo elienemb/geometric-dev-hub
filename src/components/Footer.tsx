@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Github, Linkedin, Twitter, Instagram, Mail, ArrowUp } from 'lucide-react';
+import { Github, Linkedin, Twitter, Instagram, Mail, ArrowUp, MapPin } from 'lucide-react';
 
 const Footer: React.FC = () => {
   const handleScrollToTop = () => {
