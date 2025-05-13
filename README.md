@@ -1,8 +1,33 @@
-# Welcome to your Lovable project
+
+# Geometric Dev Hub - Frontend Developer Portfolio
+
+This portfolio website showcases my work as a frontend developer, featuring a modern design with geometric elements and animations.
+
+## Project Concept
+
+This project was my personal concept and design idea, implemented using the Lovable AI platform. The design incorporates geometric shapes, animations, and a carefully selected color palette of black, white, purple, and green to create a visually appealing and professional portfolio.
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/ccd63b20-4d37-43a4-8e4e-896c904ca755
+
+## Features
+
+- Responsive design for all devices
+- Interactive UI elements with subtle animations
+- Geometric background elements created with CSS
+- Project showcase with filtering capabilities
+- Resume/CV section highlighting skills and experience
+- Contact form for potential clients or employers
+- Accessibility-focused design and implementation
+
+## Technologies Used
+
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn-ui components
+- CSS animations
 
 ## How can I edit this code?
 
@@ -49,16 +74,6 @@ npm run dev
 - Select the "Codespaces" tab.
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
 ## How can I deploy this project?
 
